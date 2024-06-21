@@ -20,7 +20,7 @@ Enthusiastic about information technology and software development. Committed pr
 ![](https://github-contributor-stats.vercel.app/api?username=Sammieblz&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
-<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
+<img src='https://media2.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.webp?cid=ecf05e477okx0x9kq75m9rr1sjhijvv9hve5fcbifeyc9qv6&ep=v1_gifs_search&rid=giphy.webp&ct=g)' style="height: 400px;"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Sammieblz&icon=0&color=0)](https://visitcount.itsvg.in)
